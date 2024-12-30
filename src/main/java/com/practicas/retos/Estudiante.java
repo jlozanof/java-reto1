@@ -1,4 +1,4 @@
-package com.practicas.reto1;
+package com.practicas.retos;
 //
 
 public class Estudiante  extends Persona{
